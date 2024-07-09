@@ -1,0 +1,16 @@
+.DS_Store
+__pycache__/form_main.cpython-311.pyc
+__pycache__/form_text.cpython-311.pyc
+__pycache__/main.cpython-311.pyc
+__pycache__/resources.cpython-311.pyc
+.idea/.gitignore
+.idea/DWH_GenComApp.iml
+.idea/misc.xml
+.idea/modules.xml
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/inspectionProfiles/Project_Default.xml
+res/form_main.ui
+res/form_text.ui
+res/res_main.qrc
+res/test.py
+template
